@@ -1,13 +1,29 @@
-# MineOps Core Domain
-
-## Estado
-
-En diseño.
+# CORE DOMAIN - MineOps Copilot
 
 ## Objetivo
 
-Este documento define el lenguaje común de MineOps.
+MineOps Copilot es una plataforma inteligente para la gestión de operaciones mineras.
 
-Antes de construir la base de datos o escribir código, todas las entidades principales del sistema deben quedar definidas aquí.
+Su propósito es conectar todas las áreas de una operación minera en un solo sistema inteligente, permitiendo centralizar información, automatizar procesos y apoyar la toma de decisiones mediante inteligencia artificial.
 
-Toda decisión técnica deberá respetar este documento.
+## Módulos principales
+
+- Producción
+- Mantenimiento
+- Seguridad
+- Medio Ambiente
+- Geología
+- Planta
+- Recursos Humanos
+- Costos
+- Contratos
+- IA Copilot
+
+## Principios
+
+- Integrar antes que reemplazar.
+- IA como asistente, no como reemplazo.
+- Información en tiempo real.
+- Trazabilidad completa.
+- Escalabilidad.
+- Seguridad de los datos.
